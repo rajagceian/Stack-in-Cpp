@@ -1,3 +1,6 @@
+## 🚀 Achievements  
+![DSA Mastery](https://img.shields.io/badge/DSA-Mastery-blue?style=for-the-badge)
+
 # Exploring Data Structures and Algorithms in C++
 
 ## Overview
